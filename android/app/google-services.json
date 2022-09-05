@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727436395713",
+    "project_id": "flash-chat-bd402",
+    "storage_bucket": "flash-chat-bd402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727436395713:android:c142dce847edbbfef94040",
+        "android_client_info": {
+          "package_name": "co.Gehad.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727436395713-d5ee6pqlpr07bcnqncea9249mkumlnup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnMOwFiXbLS3I7GupWXpctIlDu_6qW9ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727436395713-d5ee6pqlpr07bcnqncea9249mkumlnup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
